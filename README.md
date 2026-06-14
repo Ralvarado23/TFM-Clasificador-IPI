@@ -38,9 +38,9 @@ Tras evaluar 36 configuraciones distintas, el modelo compuesto por el algoritmo 
 Al integrar esta configuración como *guardrail* del modelo de lenguaje de última generación **Phi-4-mini**, el sistema logró reducir la Tasa de Éxito de Ataque (ASR) de un **41,4%** a apenas un **1,5%**. Además, el sistema introduce una latencia media de preprocesamiento de tan solo **32 ms**, resultando imperceptible para el usuario final.
 
 ## Estructura del Repositorio
-* **01_Entrenamiento_y_Evaluacion.ipynb**: Cuaderno de experimentación que abarca el preprocesamiento de datos, extracción de características, estudio de ablación y entrenamiento comparativo de los clasificadores.
+* **01_Entrenamiento_y_Evaluacion.ipynb**: Cuaderno de experimentación que abarca el preprocesamiento de datos, extracción de características, entrenamiento comparativo de los clasificadores, visualización de resultados y estudio de ablación.
 
-* **02_Evaluacion_Produccion.ipynb**: Cuaderno de simulación que despliega el modelo final junto a Phi-4-mini y evalúa su robustez automatizada mediante la técnica *LLM-as-a-Judge*.
+* **02_Evaluacion_Produccion.ipynb**: Cuaderno con el entorno de producción simulado que despliega la capa de defensa integrada junto a Phi-4-mini y evalúa desempeño mediante la técnica *LLM-as-a-Judge*.
 
 ## Instalación y Uso
 Para reproducir los experimentos detallados en este repositorio:
