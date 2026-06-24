@@ -57,7 +57,7 @@ Nota: Para ejecutar el cuaderno *02_Evaluacion_Produccion.ipynb*, es necesario d
 ## Licencia y Transparencia
 
 ### Código Fuente
-El código desarrollado en este repositorio está disponible bajo la licencia **MIT**, permitiendo su uso, modificación y distribución con fines académicos y comerciales, siempre que se mantenga la atribución correspondiente.
+El código desarrollado en este repositorio se publica de forma abierta únicamente con fines de exhibición y evaluación académica. Todos los derechos reservados (All Rights Reserved). No se permite la copia, distribución, modificación ni el uso de este código por parte de terceros sin consentimiento previo y por escrito.
 
 ### Conjuntos de Datos
 El conjunto de datos Indirect-Prompt-Injection-BIPIA-GPT se distribuye bajo la licencia **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**, en conformidad con los términos originales de sus componentes subyacentes:
